@@ -72,10 +72,5 @@ Avoid overly broad or meaningless scopes.
 
 If unsure:
 
-- Prefer `chore` over guessing
 - Omit the scope
 - Keep the message minimal
-
----
-
-These rules apply to all repositories under T-Craft Platforms.
