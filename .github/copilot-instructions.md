@@ -33,6 +33,7 @@ When creating or editing content in this repo:
 3. Separate strategy from execution details
 4. Reference affected component repos when work is implementation-specific
 5. Keep language precise and policy-aligned; avoid vague statements
+6. Do not use em dashes; use commas, parentheses, or colons instead
 
 ## Issue and Planning Guidance
 

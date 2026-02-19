@@ -65,6 +65,7 @@ Avoid overly broad or meaningless scopes.
 - Do not include emojis
 - Do not mention AI, Copilot, or automation
 - Do not add unnecessary body text unless requested
+- Do not use em dashes
 
 ---
 
